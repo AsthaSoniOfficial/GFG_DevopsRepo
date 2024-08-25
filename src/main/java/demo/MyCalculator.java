@@ -1,9 +1,9 @@
 package demo;
 
 public class MyCalculator {
-	public int sum(int a, int l)
+	public int sum(int a, int m)
 	{
-		return a+l;
+		return a+m;
 	}
 	public static void main (String [] args)
 	{
